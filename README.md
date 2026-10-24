@@ -1,7 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+# profile-readme-generator
 
-###
+Repositório reservado para geração / experimentos de **README de perfil** no GitHub.
+
+## Situação atual
+
+Este repositório contém apenas este README. O conteúdo anterior apontava para assets de outro usuário e foi substituído.
+
+Para o README de perfil ativo, veja:
+
+- [mathzs7r/mathzs7r](https://github.com/mathzs7r/mathzs7r)
+
+## Autor
+
+[mathzs7r](https://github.com/mathzs7r)
